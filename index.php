@@ -352,17 +352,7 @@ body {
                 <!-- /.inside -->
             </article>
             <!-- /.span4 -->
-            <article class="span4 "></article>
-            <article class="span4 post"> <a href="flisol2016/public/img/pales.jpg" rel="prettyPhoto"><img class="img-news" src="flisol2016/public/img/pales.jpg" alt=""></a>
-                <div class="inside">
-                    <h2>Seja um palestrante também</h2>
-                    <div class="entry-content">
-                        <p> Não basta apenas aprender, e utilizar, na filosofia da comunidade de software livre o mais importante é compartilhar e trocar experiências.</p>
-
-                </div>
-                <!-- /.inside -->
-            </article>
-            <article class="span4 "></article>
+           
         </div>
         <!-- /.row -->
     <!-- /.container -->
@@ -509,12 +499,26 @@ body {
 
 <section id="social" class="single-page scrollblock">
   <div class="container">
-  <div class="align"><i class="icon-thumbs-up"></i></div>
     <h1>Realização</h1>
     <div class="row">
-      <div class="span12"  style="text-align: center; padding-bottom: 20px;">
-        <img src="flisol2016/public/img/itic.jpg"/>
+      <div class="span12"  style="text-align: center; padding-bottom: 10px;">
+        <img width="15%" src="flisol2016/public/img/itic.jpg"/>
+        <img width="15%" src="flisol2016/public/img/fa7.png"/>
+        <img width="15%" src="flisol2016/public/img/si.jpg"/><br><br><br>
       </div>
+    </div>
+
+    <h1>Parceiros</h1>
+    <div class="row">
+      <div class="span12" style="text-align: center; padding-bottom: 10px;">
+        <a href="http://phpcomrapadura.org"><img width="25%" src="flisol2016/public/img/PHPcomRapadura.svg"/></a>
+        <a href="http://brainupti.com.br"><img width="15%" src="flisol2016/public/img/brainup.png"/></a>
+        <!--<a href="http://feitozatec.com.br"><img width="25%" src="flisol2016/public/img/feitoza_tec.png"/></a>-->
+      </div>
+
+    </div>
+
+    <div class="row">
         <div style="margin:auto;max-width: 500px; padding:20px;"><div class="fb-page" style="margin:auto;" data-tabs="timeline,events,messages" data-href="https://www.facebook.com/Flisol-Cear&#xe1;-230697460613894" data-tabs="messages" data-width="500px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div></div>
       </div>
     </div>

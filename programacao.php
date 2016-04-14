@@ -12,8 +12,8 @@
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#fortaleza" aria-controls="fortaleza" role="tab" data-toggle="tab">Fortaleza</a></li>
 	<li role="presentation"><a href="#russas" aria-controls="russas" role="tab" data-toggle="tab">Vale  do Jaguaribe</a></li>
-    <li role="presentation"><a href="#acarau" aria-controls="acarau" role="tab" data-toggle="tab">Acaraú</a></li>
     <li role="presentation"><a href="#cariri" aria-controls="cariri" role="tab" data-toggle="tab">Cariri (Juazeiro do Norte)</a></li>
+    <li role="presentation"><a href="#acarau" aria-controls="acarau" role="tab" data-toggle="tab">Acaraú</a></li>
     <li role="presentation"><a href="#caninde" aria-controls="caninde" role="tab" data-toggle="tab">Canindé</a></li>
     <li role="presentation"><a href="#crateus" aria-controls="crateus" role="tab" data-toggle="tab">Crateús</a></li>
     
@@ -131,7 +131,65 @@
     	</table>
     </div>
     <div role="tabpanel" class="tab-pane" id="acarau">acarau</div>
-    <div role="tabpanel" class="tab-pane" id="cariri">cariri</div>
+    <div role="tabpanel" class="tab-pane" id="cariri">
+      <h2>Programação do Cariri(Juazeiro do Norte)</h2>
+      <hr>
+  
+      <div class="table-responsive">
+      <table class="table table-hover table-striped table-bordered">
+        <thead>
+          <th>Horário</th>
+          <th>Espaço 1</th>
+          <th>Espaço 2</th>
+          <th>Espaço 3</th>
+          <th>Espaço 4</th>
+          <th>Espaço 5</th>
+          <th>Espaço 6</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td>08:00</td>
+            <td colspan="7" style="text-align: center; float: center; margin-right: auto; margin-left: auto">Credenciamento e Abertura</td>
+          </tr>
+
+          <tr>
+            <td>08:30</td>
+            <td >INSTALL FEST</td>
+            <td> Minicurso: Aplicações Web com Python e Web2Py </td>
+            <td> Minicurso: Carro Seguidor de Linha com Arduino </td>
+            <td> Minicurso: Introdução ao MongoDB </td>
+            <td>Oficina: Construindo aplicações desktop com Java FX</td>
+            <td> Oficina: Construindo aplicações em Ruby com Rails) </td>
+          </tr>
+          
+          <tr>
+            <td>12:00</td>
+            <td colspan="7" style="text-align: center; float: center; margin-right: auto; margin-left: auto;"> -- INTERVALO --  </td>
+          </tr>
+    
+          <tr>
+            <td>14:00</td>
+            <td colspan="7" style="text-align: center; float: center; margin-right: auto; margin-left: auto;"> Palestra TypeScript  </td>
+          </tr>
+
+          <tr>
+            <td>14:50</td>
+            <td colspan="7" style="text-align: center; float: center; margin-right: auto; margin-left: auto;"> Palestra Caminho livre para sua StartUp e a Internet das Coisas </td>
+          </tr>
+
+          <tr>
+            <td>15:40</td>
+            <td colspan="7" style="text-align: center; float: center; margin-right: auto; margin-left: auto;"> Palestra Arduino: Leitura de Sensores Em Real Time Com Socket.io e Jhonny Five  </td>
+          </tr>
+          
+          <tr>
+            <td>16:30</td>
+            <td colspan="7" style="text-align: center; float: center; margin-right: auto; margin-left: auto;">-- ENCERRAMENTO --</td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
     <div role="tabpanel" class="tab-pane" id="caninde">caninde</div>
     <div role="tabpanel" class="tab-pane" id="crateus">crateus</div>
     <div role="tabpanel" class="tab-pane" id="juazeiro">juazeiro</div>
