@@ -230,10 +230,12 @@ body {
 </section>
 
 <!--******************** Services Section ********************-->
-<section id="services" class="single-page scrollblock">
+
+<?php include_once 'programacao.php'; ?>
+
+<section style="margin-top: -120px;" id="services" class="single-page scrollblock">
   <div class="container">
-    <div class="align"><i class="icon-clipboard"></i></div>
-    <h1>Programação</h1>
+    <h1>O que você encontra?</h1>
     <div class="row">
       <div class="span4">
         <div class="mask2"> <a href="flisol2016/public/img/prog-01.jpg" rel="prettyPhoto"><img src="flisol2016/public/img/prog-01.jpg" alt=""></a> </div>
@@ -272,7 +274,7 @@ body {
         <div class="mask2"> <a href="flisol2016/public/img/prog-04.jpg" rel="prettyPhoto"><img src="flisol2016/public/img/prog-04.jpg" alt=""></a> </div>
         <div class="inside">
           <hgroup>
-            <h2>Debates</h2>
+            <h2>Painéis</h2>
           </hgroup>
         </div>
         <!-- /.inside -->
